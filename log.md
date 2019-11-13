@@ -16,6 +16,12 @@
 
 **Thoughts** Learned that color images contain more information than grayscale images and they can add unneccessary complexity and take up more space in memory. Also learned when is color important ?
 
+### Day 3: Nov 13, 2019
+**Today's Progress:** Learned how to use information about the colors in an image to isolate a particular area.
+
+**Thoughts** Practiced how to remove the blue screen background from an image an replace it with another background.
+
+
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
 Follow me on Medium where I post my blogs [munniomer](https://medium.com/@munniomer)
