@@ -21,6 +21,10 @@
 
 **Thoughts** Practiced how to remove the blue screen background from an image an replace it with another background.
 
+### Day 4: Nov 14, 2019
+**Today's Progress:** Started working on the notebook Green Screen background..
+
+**Thoughts** Also read two amazing articles that explained what pixels are about and RGB and Color Channels.
 
 Follow me on Twitter: [munniomer](https://twitter.com/munniomer)
 
